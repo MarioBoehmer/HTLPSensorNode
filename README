@@ -1,0 +1,4 @@
+This is an Arduino based humidity, temperature, light and pressure sensor node with Android data Visualization.
+For details about the project please check out: http://marioboehmer.blogspot.com/
+
+Note: Don't forget to change your WLAN settings in the Arduino code.
